@@ -24,7 +24,7 @@ To run the project locally:
 1. Clone this repository:
 
    ```bash
-   [git clone YOUR_REPOSITORY_LINK](https://github.com/Kenny-dev-futa/Todo-App)
+(https://github.com/Kenny-dev-futa/Todo-App)
    ```
 
 2. Navigate to the project folder.
