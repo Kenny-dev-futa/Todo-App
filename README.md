@@ -1,71 +1,50 @@
-# Study Task Tracker — Project Case Study
+# Todo App
 
-## 📌 Project Overview
+A simple and interactive Todo application built with HTML, CSS, and JavaScript. It allows users to create, manage, edit, and delete tasks while keeping their daily activities organised.
 
-The **Study Task Tracker** is a simple To-Do App designed to help students organise their study tasks and keep track of their progress.
+## Features
 
-I built this project using HTML, CSS, and JavaScript as part of my frontend development journey.
+- **Add Tasks:** Create new tasks with a title, date, and description.
+- **Edit Tasks:** Update existing task details.
+- **Delete Tasks:** Remove tasks you no longer need.
+- **Task Management:** View and manage your added tasks.
+- **Confirmation Dialog:** Confirm before closing the task form when necessary.
+- **Responsive Design:** Clean interface that adapts to different screen sizes.
 
-## 🎯 Problem and Goal
+## Technologies Used
 
-When studying, it can be easy to lose track of the tasks you need to complete. The goal of this project was to build a simple application that allows students to list their tasks, mark completed tasks, and monitor their progress.
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-I also wanted to practise using JavaScript to make a webpage interactive.
+## Getting Started
 
-## 🛠️ Technologies Used
+To run the project locally:
 
-- **HTML:** To structure the webpage and its elements.
-- **CSS:** To style the application and make the interface clean and simple.
-- **JavaScript:** To add functionality and handle user interactions.
+1. Clone this repository:
 
-## ⚙️ Features
+   ```bash
+   [git clone YOUR_REPOSITORY_LINK](https://github.com/Kenny-dev-futa/Todo-App)
+   ```
 
-- Add new study tasks.
-- Mark tasks as completed.
-- Delete tasks that are no longer needed.
-- Track the number of completed tasks.
+2. Navigate to the project folder.
 
-## 🧩 My Development Process
+3. Open `index.html` in your browser.
 
-I started by creating the structure with HTML and styling it with CSS. Once those were ready, I moved on to JavaScript.
+## What I Learned
 
-Honestly, I wasn't sure where to begin with the JavaScript part at first. 😂 Instead of waiting until I understood everything, I worked through the functionality step by step and used what I was learning to make the application work.
+Building this project helped me practise:
 
-This helped me practise connecting JavaScript to HTML elements and updating the webpage in response to user actions.
+- DOM manipulation.
+- Event listeners and event handling.
+- JavaScript objects and arrays.
+- Form handling and validation.
+- Working with functions.
+- Creating and managing dynamic elements.
+- Using dialogs for user interactions.
 
-## 🚧 Challenges I Faced
+## Author
 
-The biggest challenge was figuring out how to approach the JavaScript functionality. I understood the HTML structure and CSS styling, but I wasn't immediately sure how to make everything work together.
+**Kehinde Mujeeb Adeyemo**
 
-Working through the project feature by feature helped me understand the process better.
-
-## 📚 What I Learned
-
-Through this project, I practised:
-
-- Selecting HTML elements with JavaScript.
-- Reading values entered into an input field.
-- Handling form submissions and events.
-- Updating webpage content through DOM manipulation.
-- Responding to user interactions.
-- Breaking a project into smaller, manageable tasks.
-
-## 🚀 Future Improvements
-
-There are still things I want to improve as I learn more JavaScript. My next goal is to add **localStorage** so that tasks can remain saved even after the page is refreshed.
-
-I may also add features such as task categories and deadlines in the future.
-
-## 🏁 Conclusion
-
-Building the Study Task Tracker was a valuable practical step in my frontend development journey. It gave me an opportunity to apply what I had been learning and work through a project even when I wasn't sure of every step.
-
-I'm continuing to learn, practise, and build more projects as I develop my JavaScript skills.
-
----
-
-**Built by:** Kenny (ArchiWeb)
-**Project:** Study Task Tracker  
-**Technologies:** HTML, CSS, JavaScript  
-**Part of:** GrowthHub Builder Season — Frontend Development Journey
-
+Frontend Development Learner
